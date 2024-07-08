@@ -3,8 +3,6 @@ NLP_projects
 
 ### Colab of different NLP projects
 
-part of Udacity nanodegree
-
 1. Hidden Markov Model for Parts of Speech tagging
 
     Using HMM algorithm using the Pomegranate library, every word from a sentence was tagged with appropriate Parts of Speech.
